@@ -1,0 +1,7 @@
+C:\Users\Rafael\AppData\Local\Temporary Projects\JuegoDeVoz\bin\Debug\JuegoDeVoz.exe
+C:\Users\Rafael\AppData\Local\Temporary Projects\JuegoDeVoz\bin\Debug\JuegoDeVoz.pdb
+C:\Users\Rafael\AppData\Local\Temporary Projects\JuegoDeVoz\obj\x86\Debug\JuegoDeVoz.Form1.resources
+C:\Users\Rafael\AppData\Local\Temporary Projects\JuegoDeVoz\obj\x86\Debug\JuegoDeVoz.Properties.Resources.resources
+C:\Users\Rafael\AppData\Local\Temporary Projects\JuegoDeVoz\obj\x86\Debug\JuegoDeVoz.csproj.GenerateResource.Cache
+C:\Users\Rafael\AppData\Local\Temporary Projects\JuegoDeVoz\obj\x86\Debug\JuegoDeVoz.exe
+C:\Users\Rafael\AppData\Local\Temporary Projects\JuegoDeVoz\obj\x86\Debug\JuegoDeVoz.pdb
