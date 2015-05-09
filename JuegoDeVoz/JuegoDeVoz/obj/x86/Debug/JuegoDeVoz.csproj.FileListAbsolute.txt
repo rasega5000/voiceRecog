@@ -5,3 +5,5 @@ C:\Users\Rafael\AppData\Local\Temporary Projects\JuegoDeVoz\obj\x86\Debug\JuegoD
 C:\Users\Rafael\AppData\Local\Temporary Projects\JuegoDeVoz\obj\x86\Debug\JuegoDeVoz.csproj.GenerateResource.Cache
 C:\Users\Rafael\AppData\Local\Temporary Projects\JuegoDeVoz\obj\x86\Debug\JuegoDeVoz.exe
 C:\Users\Rafael\AppData\Local\Temporary Projects\JuegoDeVoz\obj\x86\Debug\JuegoDeVoz.pdb
+C:\Users\Rafael\Documents\recogvoice\JuegoDeVoz\JuegoDeVoz\obj\x86\Debug\JuegoDeVoz.exe
+C:\Users\Rafael\Documents\recogvoice\JuegoDeVoz\JuegoDeVoz\obj\x86\Debug\JuegoDeVoz.pdb

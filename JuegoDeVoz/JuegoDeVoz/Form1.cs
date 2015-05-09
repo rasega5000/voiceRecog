@@ -39,17 +39,6 @@ namespace JuegoDeVoz
         private void button1_Click(object sender, EventArgs e)
         {
             escucha.RecognizeAsync(RecognizeMode.Multiple);          
-            /*
-            string texto = textBox1.Text;
-            if (texto.Contains(a) && texto.Contains(b) && texto.Contains(c))
-            {
-                button1.Text = "Correcto";
-            }
-            else
-            {
-                button1.Text = "Error";
-            
-              */
         }
 
         private void Form1_Load(object sender, EventArgs e)
